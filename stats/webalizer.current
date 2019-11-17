@@ -1,0 +1,457 @@
+# Webalizer V2.23-08 Incremental Data - 08/29/2019 03:00:23
+2019 8 29 3 0 23
+2150 1481 68 38 6 21 39318154 126 47 0 0 0
+3 2 1120 23 29
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1122 865 27725848 13 43 4 0 0
+852 506 8869500 10 48 10 0 0
+82 44 396019 10 10 9 0 0
+55 43 1609250 18 9 9 0 0
+15 12 354519 12 6 6 0 0
+20 11 359557 19 8 8 0 0
+4 0 3461 3 2 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+700 390 5086398 32 0 0
+39 34 1607889 4 0 0
+10 9 343727 3 0 0
+5 3 71067 4 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+50 46 2204679 6 0 0
+70 39 267203 4 0 0
+12 9 345421 4 0 0
+41 24 155544 6 0 0
+35 33 1254350 2 0 0
+0 0 0 0 0 0
+1 0 379 0 0 0
+3 0 3120 2 0 0
+2 1 8755 1 0 0
+0 0 0 0 0 0
+7 4 39065 5 0 0
+38 20 137936 3 0 0
+3 0 6449 1 0 0
+0 0 0 0 0 0
+2 1 5364 1 0 0
+7 2 20308 3 0 0
+4 1 3246 2 0 0
+1121 865 27757254 43 0 0
+0
+0
+0
+1481
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+541
+0
+0
+0
+0
+0
+3
+113
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/a9Yos9TIzp_XBwy0HKM66a_0RGlQyv_Kfi5lmZBkgSc
+0 4 0 1198 0 0 0 0
+/assets/js/owl.carousel.min.js
+0 53 0 628262 0 0 0 0
+/assets/css/bootstrap.min.css
+0 85 0 2231006 0 0 0 0
+/assets/js/jquery.easing.min.js
+0 53 0 127995 0 0 0 0
+/assets/css/animate.css
+0 57 0 455763 0 0 0 0
+/assets/img/testimonial/img1.jpg
+1 77 0 135177 0 0 0 0
+/assets/img/testimonial/img2.jpg
+1 77 0 126912 0 0 0 0
+/assets/js/popper.min.js
+0 53 0 387789 0 0 0 0
+/assets/img/feature/intro-mobile.png
+1 53 0 5032626 0 0 0 0
+/.well-known/acme-challenge/75WFHTffHPxt2itcdIIJqAsUAa8qzMVSwpzqc_deYqw
+0 4 0 1202 0 0 0 0
+/assets/js/jquery-min.js
+0 53 0 1594952 0 0 0 0
+/assets/img/hero-area.svg
+0 63 0 52972 0 0 0 0
+/assets/img/team/team-04.png
+1 53 0 4976304 0 0 0 0
+/assets/img/team/team-03.png
+1 54 0 3624120 0 0 0 0
+/assets/fonts/LineIcons.woff
+0 9 0 727563 0 0 0 0
+/assets/img/intro-mobile.png
+1 53 0 1333099 0 0 0 0
+/assets/js/form-validator.min.js
+0 53 0 138803 0 0 0 0
+/assets/fonts/LineIcons.ttf
+0 30 0 2388505 0 0 0 0
+/assets/css/owl.theme.css
+0 57 0 82197 0 0 0 0
+/assets/css/main.css
+0 92 0 546339 0 0 0 0
+/assets/js/contact-form-script.min.js
+0 53 0 62697 0 0 0 0
+/assets/css/owl.carousel.min.css
+0 57 0 119559 0 0 0 0
+/assets/img/testimonial/img4.jpg
+1 76 0 129456 0 0 0 0
+/assets/img/logo.png
+1 40 0 46236 0 0 0 0
+/assets/css/responsive.css
+0 57 0 93462 0 0 0 0
+/
+0 107 0 890160 32 4 0 0
+/assets/js/bootstrap.min.js
+0 53 0 770408 0 0 0 0
+/assets/img/team/team-01.png
+1 53 0 4606406 0 0 0 0
+/assets/js/main.js
+0 53 0 68902 0 0 0 0
+/.well-known/acme-challenge/k6ny8u-LQZHjiip2YBFRSvIV_GNIshZ4X5J9ayriWnE
+0 4 0 1198 0 0 0 0
+/assets/img/team/team-02.png
+1 48 0 5083527 0 0 0 0
+/assets/js/scrolling-nav.js
+0 53 0 41128 0 0 0 0
+/assets/js/jquery.nav.js
+0 53 0 119621 0 0 0 0
+/assets/img/about/img-1.png
+1 53 0 1788722 0 0 0 0
+/assets/img/luncurin-logo.png
+1 52 0 268399 0 0 0 0
+/assets/fonts/line-icons.css
+0 57 0 249744 0 0 0 0
+/assets/img/testimonial/img3.jpg
+1 77 0 109318 0 0 0 0
+/assets/js/wow.js
+0 53 0 103350 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+51.255.109.171
+0 2 1 39803 2 1566982575 0 0
+/
+185.6.9.205
+0 1 0 379 0 0 0 0
+-
+46.229.168.131
+0 1 0 1315 1 1566805303 0 0
+-
+51.255.109.169
+0 1 1 32958 1 1566888817 0 0
+/
+46.229.168.149
+0 1 0 1315 1 1566768613 0 0
+-
+185.6.9.203
+0 1 0 379 0 0 0 0
+-
+145.239.91.37
+0 2 2 3651 1 1566601938 0 0
+/
+51.255.109.172
+0 2 1 10133 1 1566888833 0 0
+-
+157.55.39.43
+0 1 0 416 0 0 0 0
+-
+46.229.168.144
+0 3 0 2073 1 1567016402 0 0
+-
+133.18.172.226
+0 1 0 1352 1 1566653044 0 0
+-
+36.84.227.246
+0 34 32 1245998 1 1566815973 0 0
+/
+212.83.146.233
+0 1 1 32958 1 1566703185 0 0
+/
+64.233.173.181
+0 1 1 4949 1 1566628523 0 0
+/
+46.229.168.162
+0 1 0 1315 1 1567047623 0 0
+-
+51.255.109.175
+0 1 1 29262 0 0 0 0
+-
+144.76.120.23
+0 1 1 119 1 1566876597 0 0
+/
+66.249.79.19
+0 1 0 416 0 0 0 0
+-
+144.76.7.79
+0 2 1 8755 1 1566831214 0 0
+/
+46.229.168.140
+0 1 0 379 0 0 0 0
+-
+66.133.109.36
+0 3 3 899 0 0 0 0
+-
+217.115.10.132
+0 2 2 3656 1 1566601955 0 0
+/
+51.255.109.164
+0 4 4 241430 0 0 0 0
+-
+51.255.109.160
+0 3 3 76306 2 1566982557 0 0
+/
+36.78.242.254
+0 814 492 8744177 2 1566628703 0 0
+/
+51.255.109.162
+0 2 2 149302 0 0 0 0
+-
+51.255.109.165
+0 3 3 211732 0 0 0 0
+-
+108.59.8.80
+0 2 1 5309 1 1566813149 0 0
+/
+162.210.196.100
+0 2 1 5309 1 1566899185 0 0
+/
+103.41.205.47
+0 3 3 903 0 0 0 0
+-
+3.14.255.131
+0 2 2 598 0 0 0 0
+-
+91.210.59.145
+0 3 0 13467 0 0 0 0
+-
+40.77.167.116
+0 1 1 4949 1 1567013056 0 0
+/
+62.4.14.206
+0 1 1 32958 1 1566695849 0 0
+/
+138.68.29.214
+0 33 33 1571018 1 1566610037 0 0
+/
+51.255.109.173
+0 1 1 4758 0 0 0 0
+-
+34.222.229.130
+0 1 1 299 0 0 0 0
+-
+46.229.168.141
+0 1 0 379 0 0 0 0
+-
+51.255.109.168
+0 2 2 34020 0 0 0 0
+-
+51.255.109.174
+0 2 2 43348 1 1566786073 0 0
+/
+66.249.79.21
+0 1 0 1352 1 1567014073 0 0
+-
+18.197.227.110
+0 3 3 899 0 0 0 0
+-
+162.210.196.129
+0 2 1 5309 1 1566982889 0 0
+/
+51.255.109.161
+0 3 2 17185 1 1566982575 0 0
+-
+46.229.168.150
+0 1 0 1315 0 0 0 0
+-
+46.229.168.145
+0 2 0 1694 1 1566859128 0 0
+-
+23.129.64.202
+0 1 0 1296 0 0 0 0
+-
+51.15.191.81
+0 1 1 36296 1 1566703196 0 0
+/
+136.243.83.81
+0 5 4 37371 1 1566665921 0 0
+/
+51.255.109.170
+0 1 1 29262 0 0 0 0
+-
+46.229.168.134
+0 1 0 1315 1 1566980049 0 0
+-
+114.122.102.158
+0 36 22 147969 1 1566641121 0 0
+/
+85.248.227.163
+0 1 0 1296 0 0 0 0
+-
+46.229.168.147
+0 2 0 1694 1 1566835493 0 0
+-
+66.249.64.183
+0 2 0 1767 1 1566608641 0 0
+-
+36.79.254.12
+0 35 19 135558 1 1566754900 0 0
+/
+51.255.109.163
+0 1 1 18162 0 0 0 0
+-
+178.154.200.53
+0 4 1 7131 2 1567043252 0 0
+-
+95.216.96.254
+0 4 2 17299 2 1566769020 0 0
+/
+89.31.57.5
+0 1 0 1296 0 0 0 0
+-
+195.154.61.206
+0 1 1 32958 1 1566689512 0 0
+/
+114.122.114.92
+0 1025 793 25895812 1 1566604314 0 0
+/
+46.229.168.133
+0 1 0 379 0 0 0 0
+-
+51.255.109.166
+0 1 1 32958 1 1566786051 0 0
+/
+77.75.78.163
+0 2 0 1768 1 1566740559 0 0
+-
+114.124.242.122
+0 35 20 136173 1 1566719081 0 0
+/
+114.122.102.25
+0 33 19 129336 1 1566632980 0 0
+/
+51.255.109.167
+0 1 1 60562 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+46.229.168.162
+0 1 0 1315 1 1567047623 0 0
+-
+46.229.168.145
+0 1 0 379 0 0 0 0
+-
+178.154.200.53
+0 2 0 1767 1 1567043252 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.luncur.in/
+0 30
+https://luncur.in/assets/css/main.css
+0 63
+http://luncur.in/
+0 153
+- (Direct Request)
+0 301
+https://luncur.in/
+0 1564
+https://luncur.in/assets/fonts/line-icons.css
+0 39
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36Mozilla/5.0 (Macintosh; I
+0 1
+Mozilla/5.0 (compatible; vebidoobot/1.0; +https://blog.vebidoo.de/vebidoobot/)
+0 5
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:68.0) Gecko/20100101 Firefox/68.0
+0 1834
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 33
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Go-http-client/1.1
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; SEOkicks; +https://www.seokicks.de/robot.html)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi Note 4X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/5
+0 179
+Python-urllib/2.7
+0 3
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 2
+(info@domaincrawler.com; http://www.domaincrawler.com/luncur.in)
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 4
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 2
+python-requests/2.21.0
+0 2
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 15
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 34
+python-requests/2.18.4
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
